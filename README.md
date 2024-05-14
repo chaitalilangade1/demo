@@ -1,4 +1,4 @@
 # demo
 This is my first Repository.
 <br>
-Author-Chaitali
+Author-Chaitali Langade (demo)
